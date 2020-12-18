@@ -1,12 +1,12 @@
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm [Aakash][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Undergraduate, and a Full Stack Developer,
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🔭 I’m currently a Full Stack developer at eckovation.
+- 🌱 I’m currently learning devOps.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🥅 2020 Goals: Learning new languages and maybe some contibution to Open Source Projects.
+- ⚡ Fun fact: I love to play video games and listen music.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -50,9 +50,6 @@
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
@@ -71,9 +68,6 @@
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
 
 ---
 
