@@ -75,6 +75,12 @@
 
 ---
 
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical" />
+</a>
+
+---
+
 [website]: https://aakashbansal837.github.io
 [linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
 [gmail]: mailto:aakashbansal837@gmail.com
