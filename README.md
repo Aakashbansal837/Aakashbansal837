@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aakash][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, and a Full Stack Developer,
+## I'm a Student, Undergraduate, and a Full Stack Developer.
 
 - 🔭 I’m currently a Full Stack developer at eckovation.
 - 🌱 I’m currently learning devOps.
@@ -61,7 +61,6 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
@@ -71,20 +70,18 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=aakashbansal837&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=aakashbansal837&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 ---
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=aakashbansal837&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=aakashabansal837&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashabansal837&layout=compact&theme=radical" />
 </a>
 
 ---
 
-[website]: https://sabesansathananthan.now.sh
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[website]: https://aakashbansal837.github.io
+[linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
 [gmail]: mailto:aakashbansal837@gmail.com
 [whatsapp]: https://wa.me/7015903806
