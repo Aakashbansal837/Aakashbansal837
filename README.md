@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer.
 
-- 🔭 I’m currently a Full Stack developer at [eckovation].
+- 🔭 I’m currently a Full Stack developer at [Eckovation].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning new languages and maybe some contibution to Open Source Projects.
@@ -88,7 +88,7 @@
 ---
 
 [website]: https://aakashbansal837.github.io
-[eckovation]: https://www.eckovation.com
+[Eckovation]: https://www.eckovation.com
 [linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
 [gmail]: mailto:aakashbansal837@gmail.com
 [whatsapp]: https://wa.me/7015903806
