@@ -87,8 +87,8 @@
 
 ---
 
-[website]: https://aakashbansal837.github.io
-[Eckovation]: https://www.eckovation.com
-[linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
-[gmail]: mailto:aakashbansal837@gmail.com
-[whatsapp]: https://wa.me/7015903806
+[website](https://aakashbansal837.github.io){:target="\_blank" rel="noopener"}
+[Eckovation](https://www.eckovation.com){:target="\_blank" rel="noopener"}
+[linkedin](https://www.linkedin.com/in/aakash-bansal-4b6852153/){:target="\_blank" rel="noopener"}
+[gmail](mailto:aakashbansal837@gmail.com){:target="\_blank" rel="noopener"}
+[whatsapp](https://wa.me/7015903806){:target="\_blank" rel="noopener"}
