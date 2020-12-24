@@ -1,3 +1,4 @@
+<base target="_blank">
 ### Hi there, I'm [Aakash][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Full Stack Developer.
@@ -87,8 +88,8 @@
 
 ---
 
-[website](https://aakashbansal837.github.io){:target="\_blank" rel="noopener"}
-[Eckovation](https://www.eckovation.com){:target="\_blank" rel="noopener"}
-[linkedin](https://www.linkedin.com/in/aakash-bansal-4b6852153/){:target="\_blank" rel="noopener"}
-[gmail](mailto:aakashbansal837@gmail.com){:target="\_blank" rel="noopener"}
-[whatsapp](https://wa.me/7015903806){:target="\_blank" rel="noopener"}
+[website]: https://aakashbansal837.github.io
+[eckovation]: https://www.eckovation.com
+[linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
+[gmail]: mailto:aakashbansal837@gmail.com
+[whatsapp]: https://wa.me/7015903806
