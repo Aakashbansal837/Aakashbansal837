@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer.
 
-- 🔭 I’m currently a Full Stack developer at [Eckovation]{:target : "\_blank"}.
+- 🔭 I’m currently a Full Stack developer at [Eckovation].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning new languages and maybe some contibution to Open Source Projects.
