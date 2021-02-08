@@ -5,7 +5,7 @@
 - 🔭 I’m currently a Full Stack developer at [Eckovation].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learning new languages and maybe some contibution to Open Source Projects.
+- 🥅 2021 Goals: Learning new languages and maybe some contibution to Open Source Projects.
 - ⚡ Fun fact: I love to play video games and listen music.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
