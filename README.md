@@ -1,4 +1,4 @@
-### Hi there, I'm [Aakash][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm [Aakash][website]
 
 ## I'm a Full Stack Developer.
 
