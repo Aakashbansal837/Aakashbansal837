@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Full Stack developer at [Vaco].
 - 🌱 I’m currently learning devOps.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m always open for new opportunities and collaborations.
 - 🥅 2021 Goals: Learning new languages and maybe some contibution to Open Source Projects.
 - ⚡ Fun fact: I love to play video games and listen music.
 
