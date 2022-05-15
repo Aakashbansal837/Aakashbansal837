@@ -5,16 +5,15 @@
 - 🔭 I’m currently a Full Stack developer at [Vaco].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m always open for new opportunities and collaborations.
-- 🥅 2021 Goals: Learning new languages and maybe some contibution to Open Source Projects.
+- 🥅 2022 Goals: Learning new technology and maybe some contibution to Open Source Projects.
 - ⚡ Fun fact: I love to play video games and listen music.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="aakash" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="aakash | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aakash | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="aakash | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
+[<img align="left" alt="aakash" height="22px" src="https://img.icons8.com/nolan/64/github.png" />][website]
+[<img align="left" alt="aakash | LinkedIn" height="22px" src="https://img.icons8.com/nolan/64/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="aakash | Gmail" height="22px" src="https://img.icons8.com/nolan/64/gmail-new.png" />][gmail]
+[<img align="left" alt="aakash | Whatsapp" height="22px" src="https://img.icons8.com/nolan/64/whatsapp.png" />][whatsapp]
 <br />
 
 <p align=center>
@@ -28,9 +27,6 @@
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -56,14 +52,14 @@
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+<img alt="github" width="26px" src="https://img.icons8.com/nolan/64/github.png"/>
 </code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="Mac Os" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mac-coworking-space-flaticons-lineal-color-flat-icons.png"/>
+</code>](https://www.apple.com/in/macos)
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
