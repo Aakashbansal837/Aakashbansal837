@@ -58,7 +58,7 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mac-coworking-space-flaticons-lineal-color-flat-icons.png"/>
+<img alt="Mac Os" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mac-coworking-space-flaticons-lineal-color-flat-icons.png"/>
 </code>](https://www.apple.com/in/macos)
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
@@ -72,11 +72,14 @@
 
 ---
 
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=aakashbansal837&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=aakashbansal837&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=aakashbansal837&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 ---
 
-<img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Aakashbansal837&layout=compact&theme=radical" />
+</a>
 
 ---
 
