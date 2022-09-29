@@ -1,8 +1,8 @@
 ### Hi there, I'm [Aakash][website]
 
-## I'm a Full Stack Developer.
+## I'm a Full Stack Software Engineer.
 
-- 🔭 I’m currently a Full Stack developer at [self care catalyst].
+- 🔭 I’m currently a Software Engineer at [self care catalyst].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m always open for new opportunities and collaborations.
 - 🥅 2022 Goals: Learning new technology and maybe some contibution to Open Source Projects.
