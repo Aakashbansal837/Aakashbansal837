@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer.
 
-- 🔭 I’m currently a Full Stack developer at [Vaco].
+- 🔭 I’m currently a Full Stack developer at [self care catalyst].
 - 🌱 I’m currently learning devOps.
 - 👯 I’m always open for new opportunities and collaborations.
 - 🥅 2022 Goals: Learning new technology and maybe some contibution to Open Source Projects.
@@ -73,7 +73,7 @@
 ---
 
 [website]: https://aakashbansal837.github.io
-[Vaco]: https://www.vaco.com
+[self care catalyst]: https://www.selfcarecatalysts.com/
 [linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
 [gmail]: mailto:aakashbansal837@gmail.com
 [whatsapp]: https://wa.me/7015903806
