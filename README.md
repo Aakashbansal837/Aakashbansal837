@@ -74,7 +74,7 @@
 ## Github Stats
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837)
 
-###
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashbansal837&layout=compact&theme=tokyonight)](https://github.com/aakashbansal837?tab=repositories)
 
 
