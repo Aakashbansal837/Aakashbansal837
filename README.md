@@ -74,6 +74,11 @@
 </code>](https://getbootstrap.com/)
 
 ---
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashbansal837&layout=compact&theme=tokyonight)](https://github.com/aakashbansal837?tab=repositories)
+
+
+---
 
 [website]: https://aakashbansal837.github.io
 [self care catalyst]: https://www.selfcarecatalysts.com/
