@@ -71,7 +71,7 @@
 </code>](https://getbootstrap.com/)
 
 ---
-## Github Stats
+### Github Stats
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837)
 
 ### Languages
