@@ -16,6 +16,10 @@
 [<img align="left" alt="aakash | Whatsapp" height="22px" src="https://img.icons8.com/nolan/64/whatsapp.png" />][whatsapp]
 <br />
 
+
+### Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashbansal837&label=Profile%20views&color=0e75b6&style=flat" alt="aakashbansal837" /> </p>
+
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
 </p>
