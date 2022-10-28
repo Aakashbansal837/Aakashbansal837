@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Learning new technology and maybe some contibution to Open Source Projects.
 - ⚡ Fun fact: I love to play video games and listen music.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32" width="32">
 
 [<img align="left" alt="aakash" height="22px" src="https://img.icons8.com/nolan/64/github.png" />][website]
 [<img align="left" alt="aakash | LinkedIn" height="22px" src="https://img.icons8.com/nolan/64/linkedin-circled.png" />][linkedin]
