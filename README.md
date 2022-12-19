@@ -39,7 +39,7 @@
 [<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
 [<code><img alt="github" width="26px" src="https://img.icons8.com/nolan/64/github.png"/></code>](https://github.com/)
 [<code><img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"></code>](https://www.microsoft.com/en-us/windows)
-[<code><img alt="Mac Os" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000external-mac-coworking-space-flaticons-lineal-color-flat-icons.png"/>
+[<code><img alt="Mac Os" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mac-coworking-space-flaticons-lineal-color-flat-icons.png"/>
 </code>](https://www.apple.com/in/macos)
 [<code><img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>](https://ubuntu.com/)
 [<code><img alt="material ui" width="26px" src="https://img.icons8.com/color/96/000000/material-ui.png"></code>](https://material-ui.com/)
