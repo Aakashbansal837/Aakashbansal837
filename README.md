@@ -45,8 +45,9 @@
 [<code><img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/96/000000/bootstrap.png"></code>](https://getbootstrap.com/)
 
 ---
+<!--
 ### Github Stats
-<!--[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837) -->
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837) -->
 
 ---
 
