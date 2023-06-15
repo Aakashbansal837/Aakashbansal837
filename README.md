@@ -47,7 +47,7 @@
 ---
 <!--
 ### Github Stats
-[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837) -->
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashbansal837&show_icons=true&theme=tokyonight)](https://github.com/aakashbansal837) 
 
 ---
 
@@ -56,6 +56,9 @@
 
 
 ---
+
+
+-->
 
 [website]: https://aakashbansal.me
 <!-- [self-care catalyst]: https://www.selfcarecatalysts.com/ -->
