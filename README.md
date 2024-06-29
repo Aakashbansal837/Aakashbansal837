@@ -60,7 +60,7 @@
 
 -->
 
-[website]: https://aakashbansal.me
+[website]: https://portfolio-react-aakashbansal837.vercel.app/
 <!-- [self-care catalyst]: https://www.selfcarecatalysts.com/ -->
 [linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
 [gmail]: mailto:aakashbansal837@gmail.com
