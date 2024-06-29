@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Software Engineer.
 
-- 🔭 I’m currently a Full Stack Software Engineer.
+- 🔭 I’m currently a UI Engineer 2 @ Cleartrip (Flipkart Group).
 - 🌱 I’m currently learning DevOps and Open Source Development.
 - 👯 I’m always open to new opportunities and collaborations.
-- 🥅 2023 Goals: Learning new technology and maybe some contribution to Open Source Projects.
+- 🥅 2024 Goals: Learning new technology and maybe some contribution to Open Source Projects.
 - ⚡ Fun fact: I love to play video games and listen to music.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32" width="32">
@@ -62,6 +62,6 @@
 
 [website]: https://portfolio-react-aakashbansal837.vercel.app/
 <!-- [self-care catalyst]: https://www.selfcarecatalysts.com/ -->
-[linkedin]: https://www.linkedin.com/in/aakash-bansal-4b6852153/
+[linkedin]: https://www.linkedin.com/in/aakashbansal837/
 [gmail]: mailto:aakashbansal837@gmail.com
 [whatsapp]: https://wa.me/7015903806
